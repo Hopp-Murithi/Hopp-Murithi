@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Hope+Murithi⚡;Software+engineer;MERN+stack;javaScript+junkie😍)](https://git.io/typing-svg)
 # 💫 About Me:
 🔭 I’m currently working on an airplane booking app<br>👯 I’m looking to collaborate on an erp system<br>🤝 I’m looking for help with android development (kotlin)😍<br>🌱 I’m currently learning reactJS<br>💬 Ask me about anything backend (MERN stack)<br>⚡ Fun fact :A human being can swim through a blue whale's veins
 
