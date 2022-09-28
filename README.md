@@ -1,10 +1,10 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Hope+Murithi⚡;Software+engineer;I+love+computers😍;MERN+stack;javaScript+junkie😍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+viewing+my+profile😍🤝;Software+engineering+student;I+love+computers😍;MERN+stack;javaScript+junkie😍)](https://git.io/typing-svg)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hopp02&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
 # 💫 About Me:
-🔭 I’m currently working on an airplane booking app<br>👯 I’m looking to collaborate on an erp system<br>🤝 I’m looking for help with android development (kotlin)😍<br>🌱 I’m currently learning software engineering😍<br>💬 Ask me about anything backend (MERN stack)<br>⚡ Fun fact :A human being can swim through a blue whale's veins
+🔭 I’m currently working on an airplane booking app<br>👯 I’m looking to collaborate on an erp system<br>🤝 I’m looking for help with android development (kotlin)😍<br>🌱 I’m currently learning software engineering😍<br>💬 Ask me about anything backend (MERN stack)<br>⚡ Fun fact :The first programmer was the daughter of a mad poet
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hopp02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
