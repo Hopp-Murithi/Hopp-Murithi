@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+viewing+my+profile😍🤝;Software+engineering+student;I+love+computers😍;MERN+stack;javaScript+junkie😍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+viewing+my+profile😍🤝;Software+engineering+student;web+developer😍;MERN+stack;javaScript+junkie😍)](https://git.io/typing-svg)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hopp02&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
