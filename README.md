@@ -7,8 +7,8 @@
 🔭 I’m currently working on an airplane booking app<br>👯 I’m looking to collaborate on an erp system<br>🤝 I’m looking for help with android development (kotlin)😍<br>🌱 I’m currently learning software engineering😍<br>💬 Ask me about anything backend (MERN stack)<br>⚡ Fun fact :The first programmer was the daughter of a mad poet
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hopp02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hopp02&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Hopp-Murithi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hopp-Murithi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hopp02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6rolw348a8mrmtc1mrrrb4ohi&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <!--START_SECTION:waka-->
