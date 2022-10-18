@@ -9,7 +9,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hopp-Murithi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hopp-Murithi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hopp02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hope-Murithi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6rolw348a8mrmtc1mrrrb4ohi&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
