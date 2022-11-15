@@ -4,7 +4,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Hopp02&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
 # 💫 About Me:
-🔭 I’m currently working on an airplane booking app<br>👯 I’m looking to collaborate on an erp system<br>🤝 I’m looking for help with android development (kotlin)😍<br>🌱 I’m currently learning software engineering😍<br>💬 Ask me about anything backend (MERN stack)<br>⚡ Fun fact :The first programmer was the daughter of a mad poet
+🔭 I’m currently working on a tutorials blog web app<br>👯 I’m looking to collaborate on an erp system<br>🤝 I’m looking for help with android development (kotlin)😍<br>🌱 I’m currently learning software engineering😍<br>💬 Ask me about anything backend (MERN stack)<br>⚡ Fun fact :The first programmer was the daughter of a mad poet
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hopp-Murithi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
