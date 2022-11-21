@@ -1,16 +1,12 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+viewing+my+profile🤝;Software+engineering+student;web+developer😍;MERN+stack;javaScript+junkie😍)](https://git.io/typing-svg)
+## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+viewing+my+profile🤝;Software+engineering+student;web+developer😍;MERN+stack;javaScript+junkie)](https://git.io/typing-svg)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hopp02&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
 # 💫 About Me:
 🔭 I’m currently working on a tutorials blog web app<br>👯 I’m looking to collaborate on an erp system<br>🤝 I’m looking for help with android development (kotlin)😍<br>🌱 I’m currently learning software engineering😍<br>💬 Ask me about anything backend (MERN stack)<br>⚡ Fun fact :The first programmer was the daughter of a mad poet
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hopp-Murithi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hopp-Murithi&theme=dark&hide_border=false)<br/>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6rolw348a8mrmtc1mrrrb4ohi&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
