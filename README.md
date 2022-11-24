@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on a tutorials blog web app<br>👯 I’m looking to collaborate on an erp system<br>🤝 I’m looking for help with android development (kotlin)😍<br>🌱 I’m currently learning software engineering😍<br>💬 Ask me about anything backend (MERN stack)<br>⚡ Fun fact :The first programmer was the daughter of a mad poet
+🔭 I’m currently working on a simple social media platform(snappy😍)<br>👯 I’m looking to collaborate on an erp system<br>🤝 I’m looking for help with android development (kotlin)😍<br>🌱 I’m currently learning software engineering😍<br>💬 Ask me about anything backend (MERN stack)<br>⚡ Fun fact :The first programmer was the daughter of a mad poet
 
 
 <!--START_SECTION:waka-->
