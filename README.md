@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m  working on a simple social media platform(snappy😍)<br>I’m currently learning software engineering😍<br>💬 Ask me about anything javaScript(MERN stack)<br>💬Reach me through hoppmurithi@gmail.com<br>⚡ Fun fact :The first programmer was the daughter of a mad poet
+🔭 I’m  working on a tutorials' repo  site(Tutorials_API)<br>🌱 I ocassionally write on medium😍<br>💬 Ask me about anything javaScript(MERN stack)<br>💬Reach me through hoppmurithi@gmail.com<br>⚡ Fun fact :The first programmer was the daughter of a mad poet
 
 
 <!--START_SECTION:waka-->
@@ -19,7 +19,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hope-murithi-ab251b211/ )  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19298433) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@HoppMwenda) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hope-murithi-ab251b211/ ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hoppmurithi )
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19298433) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@HoppMwenda) 
 
 
 ### ✍️ Random Dev Quote
