@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m  currently exploring the decentralized world<br>🌱 I ocassionally write on medium about web3😍<br>💬Reach me through hoppmurithi@gmail.com<br>⚡ Fun fact :The first programmer was the daughter of a mad poet
+🔭 I’m  currently exploring the decentralized world<br>🌱 I ocassionally write on [medium](https://medium.com/@hoppmurithi) about web3😍<br>💬Reach me through hoppmurithi@gmail.com<br>⚡ Fun fact :The first programmer was the daughter of a mad poet
 
 
 <!--START_SECTION:waka-->
