@@ -1,5 +1,5 @@
 # Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+viewing+my+profile🤝;Software+engineering+student;collaborative+web+developer😍;Blockchain+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+viewing+my+profile🤝;Software+engineering+student;collaborative+web+developer😍;Code+athlete)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
