@@ -1,9 +1,9 @@
 # Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+viewing+my+profile🤝;Software+engineering+student;collaborative+web+developer😍;Code+athlete)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+viewing+my+profile🤝;Just+a+Code+athlete)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
-🔭 I’m  currently exploring the decentralized world<br>🌱 I ocassionally write on [medium](https://medium.com/@hoppmurithi) about web3😍<br>💬Reach me through hoppmurithi@gmail.com<br>⚡ Fun fact :The first programmer was the daughter of a mad poet
+🔭 I’m  currently exploring the decentralized(blockchain) world<br>🌱 I ocassionally write on [medium](https://medium.com/@hoppmurithi) about web3😍<br>💬Reach me through hoppmurithi@gmail.com<br>⚡ Fun fact :The first programmer was the daughter of a mad poet
 
 
 <!--START_SECTION:waka-->
