@@ -22,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hope-murithi-ab251b211/ ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hoppmurithi )
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19298433) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@HoppMwenda) 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6rolw348a8mrmtc1mrrrb4ohi&cover_image=true&theme=default&show_offline=false&background_color=4e1313&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
