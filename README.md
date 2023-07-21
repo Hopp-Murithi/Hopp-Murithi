@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m  currently exploring the decentralized(blockchain) world<br>🌱 I ocassionally write on [medium](https://medium.com/@hoppmurithi) about web3😍<br>💬Reach me through hoppmurithi@gmail.com<br>⚡ Fun fact: Programming beats: Music is my coding companion!
+🔭 I’m  currently building solutions for the Web<br>🌱 I ocassionally write on [medium](https://medium.com/@hoppmurithi) about the web😍<br>💬Reach me through hoppmurithi@gmail.com<br>⚡ Fun fact: Programming beats: Music is my coding companion!
 
 
 <!--START_SECTION:waka-->
@@ -24,14 +24,6 @@
 
 ## 😂 Here is a random joke!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-
-
----
-
-
-
 
 <!--
 **Hopp02/Hopp02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
