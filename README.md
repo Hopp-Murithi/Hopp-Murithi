@@ -24,8 +24,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6rolw348a8mrmtc1mrrrb4ohi&cover_image=true&theme=default&show_offline=false&background_color=0f0f0f&interchange=false&bar_color=4e79b1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-## 😂 Here is a random joke!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **Hopp02/Hopp02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
