@@ -5,7 +5,7 @@
 const Hopp = {
   languages: [Javascript, Typescript, Solidity, HTML, CSS, SQL, PHP],
   frameworks: [React, React Native, Node.js, Express.js, Next.js],
-  tools: [Redux, Git, VSCode, Docker,Webstorm,AWS ],
+  tools: [Redux, Git, VSCode, Docker,Webstorm,AWS,GraphQL ],
   databases: [MongoDB, PostgreSQL,MSSQL,MySQL]
 }
 ```
