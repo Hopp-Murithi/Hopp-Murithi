@@ -1,9 +1,15 @@
-# Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+viewing+my+profile🤝;Just+a+Code+athlete)](https://git.io/typing-svg)
+# Hopp Murithi here 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+you+for+viewing+my+profile🤝;Software+engineer;web3+builder;)](https://git.io/typing-svg)
 
-
-# 💫 About Me:
-🔭 I’m  currently building solutions for the Web<br>🌱 I ocassionally write on [medium](https://medium.com/@hoppmurithi) about the web😍<br>💬Reach me through hoppmurithi@gmail.com<br>⚡ Fun fact: Programming beats: Music is my coding companion!
+```javascript
+const Hopp = {
+  languages: [Javascript, Typescript, Solidity, HTML, CSS, SQL, PHP],
+  frameworks: [React, React Native, Node.js, Express.js, Next.js],
+  tools: [Redux, Git, VSCode, Docker,Webstorm,AWS ],
+  databases: [MongoDB, PostgreSQL,MSSQL,MySQL]
+}
+```
+I ocassionally write on [medium](https://medium.com/@hoppmurithi) about the web😍<br>💬Reach me through hoppmurithi@gmail.com<br>⚡ Fun fact: Programming beats: Music is my coding companion!
 
 
 <!--START_SECTION:waka-->
@@ -21,9 +27,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hope-murithi-ab251b211/ ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hoppmurithi )
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19298433) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@HoppMwenda) 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6rolw348a8mrmtc1mrrrb4ohi&cover_image=true&theme=default&show_offline=false&background_color=0f0f0f&interchange=false&bar_color=4e79b1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
 
 <!--
 **Hopp02/Hopp02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
