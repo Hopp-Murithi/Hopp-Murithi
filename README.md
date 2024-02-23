@@ -4,8 +4,8 @@
 ```javascript
 const Hopp = {
   languages: [Javascript, Typescript, Solidity, HTML, CSS, SQL, PHP],
-  frameworks: [React, React Native, Node.js, Express.js, Next.js],
-  tools: [Redux, Git, VSCode, Docker,Webstorm,AWS,Apollo graphQL ],
+  frameworks: [NextJs,React, React Native, Node.js, Express.js, Wordpress(Custom theme and plugin development)],
+  tools: [Redux, Git, VSCode, Docker, Webstorm, AWS, Apollo graphQL ],
   databases: [MongoDB, PostgreSQL,MSSQL,MySQL]
 }
 ```
